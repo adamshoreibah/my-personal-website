@@ -1,5 +1,5 @@
 body {
-    background: rgb(114, 188, 223);
+    background-color: rgba(77, 153, 252, 0.603);
 }
 .center {
     display: block;
@@ -8,9 +8,17 @@ body {
     width: 33%;
   }
   h2 {
+      color: black;
       font-size: 20px;
       font-family: Arial;
       margin-left: 21%;
       margin-right: 21%;
-      display: block;
   }
+  p {
+      color: black;
+      font-size: 20px;
+  }
+h4 {
+    color: black;
+    font-size: 25px;
+}
