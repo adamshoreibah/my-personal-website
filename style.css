@@ -1,3 +1,16 @@
 body {
-    background: blue;
+    background: rgb(114, 188, 223);
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 33%;
+  }
+  h2 {
+      font-size: 20px;
+      font-family: Arial;
+      margin-left: 21%;
+      margin-right: 21%;
+      display: block;
+  }
